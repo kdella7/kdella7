@@ -19,7 +19,7 @@
 
 <a href="https://linkedin.com/in/khaled-abdella-1a6259243" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Abdella-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Kdella7" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Abdella-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="(https://www.facebook.com/khaled.abdella.566)" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Abdella-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/khaled.abdella.566" target="_blank"><img src="https://img.shields.io/badge/-Khaled%20Abdella-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
